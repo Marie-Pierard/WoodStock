@@ -2,5 +2,5 @@
 
 ## task: create a basic one-page based on the [following layout](https://www.figma.com/proto/fB6MeHVqXD5Gd9qzMPpzOc/WoodSock?node-id=0%3A2&scaling=min-zoom) using React
 
-![Logo React]("/woodstock/public/logo512.png")
+![Logo React](https://miro.medium.com/max/875/1*dLaDL-lSN0iprzmOpmM7zQ.png); 
 
